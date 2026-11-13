@@ -1,4 +1,3 @@
-cd YoutubeMovieDL
 git add .
 git commit -m "Add Windows executable release"
 git push origin main
